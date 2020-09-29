@@ -1,6 +1,6 @@
 # Curso "Introducción a Learning Analytics con ejemplos prácticos"
 
-*** Actualizado UD03 27/09/2020 ***
+***Actualizado UD03 27/09/2020***
 
 Aquí compartimos el material generado para el curso "Introducción a Learning Analytics".
 En este curso intentamos introducir el mundo del "Learning Analytics" (analítica del aprendizaje) con suspuestos prácticos que podemos aplicar y adaptar a nuestras necesidades.
