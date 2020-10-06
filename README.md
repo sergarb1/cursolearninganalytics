@@ -93,4 +93,16 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 
 
+| Casos prácticos UD04 |
+| ------ |
+| [Unidad 04 - Caso práctico 01 - Análisis de resumen (Individual)](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.03%20-%20An%C3%A1lisis%20de%20resumen%20(Individual)%20-%20Caso%20pr%C3%A1ctico.pdf)|
+| [Unidad 04 - Datos Caso práctico 01 (Quijote, Wikipedia y resumen)](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/CasoEstudioUD04-01.zip) |
+| [Video Unidad 04 - Extrayendo información de "El Quijote"](https://youtu.be/EVjcsV-cC_g) |
+| [Unidad 04 - Caso práctico 02 - Análisis de resumen (Colectivo)](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.04%20-%20An%C3%A1lisis%20de%20resumenes%20(Colectivo)%20-%20Caso%20pr%C3%A1ctico.pdf)|
+| [Unidad 04 - Datos Caso práctico 02 (Colectivo)](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/CasoEstudioUD04-02.zip) |
 
+
+
+| Actividades UD04 |
+| ------ |
+| [Unidad 04 - Actividades Entregables](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.05%20-%20Actividades%20Entregables.pdf) |
