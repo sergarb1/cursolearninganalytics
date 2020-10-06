@@ -80,7 +80,7 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 
 
-# UD04 Learning Analytics aplicado al análisis de textos: resúmenes, mapas y presentaciones Edit topic name
+# UD04 Learning Analytics aplicado al análisis de textos: resúmenes, mapas y presentaciones
 
 
 
