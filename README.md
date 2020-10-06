@@ -1,6 +1,6 @@
 # Curso "Introducción a Learning Analytics con ejemplos prácticos"
 
-***Actualizado UD03 - 27/09/2020***
+***Actualizado UD04 - 06/10/2020***
 
 Aquí compartimos el material generado para el curso "Introducción a Learning Analytics". Este constará de un total de 8 unidades.  
 En este curso intentamos introducir el mundo del "Learning Analytics" (analítica del aprendizaje) con suspuestos prácticos que podemos aplicar y adaptar a nuestras necesidades.
@@ -77,6 +77,20 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | Actividades UD03 |
 | ------ |
 | [Unidad 03 - Actividades Entregables](https://github.com/sergarb1/CursoLearningAnalytics/blob/master/FuentesCurso/UD%2003%20-%20Learning%20Analytics%20aplicado%20a%20la%20asistencia/UD%2003.04%20-%20Actividades%20Entregables.pdf) |
+
+
+
+# UD04 Learning Analytics aplicado al análisis de textos: resúmenes, mapas y presentaciones Edit topic name
+
+
+
+| Documentación UD04 |
+| ------ |
+| [Video Guía didáctia Unidad 04](https://youtu.be/x0J8Mh-U95s) |
+| [Unidad 04 - Learning Analytics aplicado al análisis de textos: resúmenes, mapas y presentaciones](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.01%20-%20Learning%20Analytics%20para%20analisis%20de%20textos.pdf) 
+| [Unidad 04 - Anexo I - Herramientas para el análisis de textos](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.02%20-%20Anexo%20I%20-%20Herramientas%20para%20el%20an%C3%A1lisis%20de%20texto.pdf) |
+| [Software Python - AnalizadorTextos](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/AnalizadorTextos.zip) |
+
 
 
 
