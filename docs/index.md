@@ -11,6 +11,7 @@ El curso esta compartido bajo licencia Creative Commons BY-SA-NC y los fuentes d
 Aquí tenéis los enlaces al material para realizar el curso.
 
 # Guía didáctica del curso
+
 | Documentación Guía didáctica|
 | ------ |
 | [Video Resumen - Guía didáctica - Curso Introducción a Learning Analytics](https://www.youtube.com/watch?v=mhVu5UzpNqU&feature=youtu.be) |
