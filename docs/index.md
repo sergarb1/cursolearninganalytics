@@ -1,6 +1,6 @@
 # Curso "Introducción a Learning Analytics con ejemplos prácticos"
 
-***Actualizado UD05 - 14/10/2020***
+***Actualizado UD07 - 02/11/2020***
 
 Aquí compartimos el material generado para el **curso "Introducción a Learning Analytics"**. Este constará de un total de 7 unidades.  
 En este curso intentamos introducir el mundo del "Learning Analytics" (analítica del aprendizaje) con suspuestos prácticos que podemos aplicar y adaptar a nuestras necesidades.
@@ -137,3 +137,23 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | Actividades UD05 |
 | ------ |
 | [Unidad 05 - Actividades Entregables](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2005%20-%20Learning%20Analytics%20aplicado%20a%20cuestionarios/UD%2005.08%20-%20Actividades%20Entregables.pdf) |
+
+
+# UD06 Learning Analytics aplicado al trabajo en equipo
+
+
+| Documentación UD06 |
+| ------ |
+| [Video Guía didáctia Unidad 06](https://youtu.be/xiZaocF00E4) |
+| [Unidad 06 - Learning Analytics aplicado al trabajo en equipo](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2006%20-%20Learning%20Analytics%20aplicado%20al%20trabajo%20en%20equipo/UD%2006.01%20-%20Learning%20Analytics%20aplicado%20al%20trabajo%20en%20equipo.pdf) 
+
+
+| Casos prácticos UD06 |
+| ------ |
+| [Unidad 06 - Caso práctico 01 - Comunicación con Telegram ](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2006%20-%20Learning%20Analytics%20aplicado%20al%20trabajo%20en%20equipo/UD%2006.02%20-%20Comunicaci%C3%B3n%20con%20Telegram%20-%20Caso%20pr%C3%A1ctico.pdf)|
+| [Unidad 06 - Caso práctico 02 - Comunicación con Slack](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2006%20-%20Learning%20Analytics%20aplicado%20al%20trabajo%20en%20equipo/UD%2006.03%20-%20Comunicaci%C3%B3n%20con%20Slack%20-%20Caso%20pr%C3%A1ctico.pdf)|
+| [Unidad 06 - Caso práctico 03 - Organización con Trello](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2006%20-%20Learning%20Analytics%20aplicado%20al%20trabajo%20en%20equipo/UD%2006.04%20-%20Organizaci%C3%B3n%20con%20Trello%20-%20Caso%20pr%C3%A1ctico.pdf)|
+
+
+
+
