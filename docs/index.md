@@ -155,5 +155,27 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | [Unidad 06 - Caso práctico 03 - Organización con Trello](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2006%20-%20Learning%20Analytics%20aplicado%20al%20trabajo%20en%20equipo/UD%2006.04%20-%20Organizaci%C3%B3n%20con%20Trello%20-%20Caso%20pr%C3%A1ctico.pdf)|
 
 
+# UD07 Otras aplicaciones de Learning Analytics
 
+
+| Documentación UD07 |
+| ------ |
+| [Video Guía didáctia Unidad 07](https://youtu.be/XOKnd82gjcI) |
+| [Unidad 07 - Otras aplicaciones de Learning Analytics](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2007%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics/UD%2007.01%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics.pdf) 
+
+
+| Casos prácticos UD07 |
+| ------ |
+| [Unidad 07 - Caso práctico 01 - Estadísticas Youtube ](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2007%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics/UD%2007.02%20-%20Estad%C3%ADsticas%20YouTube%20-%20Caso%20pr%C3%A1ctico.pdf)|
+| [Unidad 07 - Caso práctico 02 - Análisis de sentimientos](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2007%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics/UD%2007.03%20-%20Analisis%20de%20sentimientos%20-%20Caso%20pr%C3%A1ctico.pdf)|
+| [Unidad 07 - Caso práctico 03 - Debates con Kialo.com](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2007%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics/UD%2007.04%20-%20Debates%20con%20Kialo%20-%20Caso%20pr%C3%A1ctico.pdf)|
+| [Unidad 07 - Caso práctico 04 - Sociogramas](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2007%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics/UD%2007.05%20-%20Sociogramas%20-%20Caso%20pr%C3%A1ctico.pdf)|
+| [Unidad 07 - Datos Caso práctico 04 (Sociogramas)](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2007%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics/SociogramaClase%20-%20Caso%20Estudio%2003.zip) |
+| [Video Unidad 07 - Extrayendo información del caso práctico 04 con Gephi](https://youtu.be/lmAJqJ6mCDk) |
+
+
+| Actividades UD07 |
+| ------ |
+| [Unidad 07 - Actividades Entregables](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2007%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics/UD%2007.06%20-%20Actividades%20Entregables.pdf) |
+| [Unidad 07 - Datos Actividad Entregable (Sociogramas)](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2007%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics/SociogramaClaseCumple%20-%20Actividad%20entregable%202.zip) |
 
