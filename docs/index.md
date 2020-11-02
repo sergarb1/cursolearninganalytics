@@ -170,7 +170,7 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | [Unidad 07 - Caso práctico 02 - Análisis de sentimientos](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2007%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics/UD%2007.03%20-%20Analisis%20de%20sentimientos%20-%20Caso%20pr%C3%A1ctico.pdf)|
 | [Unidad 07 - Caso práctico 03 - Debates con Kialo.com](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2007%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics/UD%2007.04%20-%20Debates%20con%20Kialo%20-%20Caso%20pr%C3%A1ctico.pdf)|
 | [Unidad 07 - Caso práctico 04 - Sociogramas](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2007%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics/UD%2007.05%20-%20Sociogramas%20-%20Caso%20pr%C3%A1ctico.pdf)|
-| [Unidad 07 - Datos Caso práctico 04 (Sociogramas)](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2007%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics/SociogramaClase%20-%20Caso%20Estudio%2003.zip) |
+| [Unidad 07 - Datos Caso práctico 04 (Sociogramas)](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2007%20-%20Otras%20aplicaciones%20de%20Learning%20Analytics/SociogramaClase%20-%20Caso%20Estudio%2004.zip) |
 | [Video Unidad 07 - Extrayendo información del caso práctico 04 con Gephi](https://youtu.be/lmAJqJ6mCDk) |
 
 
