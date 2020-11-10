@@ -8,4 +8,4 @@ En este curso intentamos introducir el mundo del "Learning Analytics" (analític
 El curso esta compartido bajo licencia Creative Commons BY-SA-NC y los fuentes del curso los tenéis disponibles en  
 https://github.com/sergarb1/CursoLearningAnalytics/tree/master/FuentesCurso
 
-Aquí tenéis los enlaces al material para realizar el curso https://sergarb1.github.io/CursoLearningAnalytics/
+Aquí tenéis los enlaces al material para realizar el curso https://sergarb1.github.io/cursolearninganalytics/
