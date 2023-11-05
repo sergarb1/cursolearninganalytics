@@ -35,8 +35,8 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | ------ |
 | [Unidad 01 - Actividades Opcionales PowerBI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.05%20-%20Actividades%20Opcionales%20PowerBI%20Desktop.pdf)|
 | [Video Unidad 01 - Ejemplo uso Power BI Desktop (Proyecto Titanic)](https://www.youtube.com/watch?v=qIYYR4SbEpA) |
-| [Unidad 01 - (DATASET) datos brutos sobre el Titanic ](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/titanic_dataset.csv)|
-| [Unidad 01 - PowerBI Desktop - Informe Titanic (Resultado)](https://github.com/sergarb1/cursolearninganalytics/blob/4e84342bc27ff2c7d714568e35b0113102854802/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/Informe-Titanic.pbix) |
+| [Unidad 01 - (DATASET) datos brutos sobre el Titanic ](https://github.com/sergarb1/cursolearninganalytics/raw/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/titanic_dataset.csv)|
+| [Unidad 01 - PowerBI Desktop - Informe Titanic (Resultado)](https://github.com/sergarb1/cursolearninganalytics/raw/4e84342bc27ff2c7d714568e35b0113102854802/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/Informe-Titanic.pbix) |
 
 
 | Recursos UD01 |
