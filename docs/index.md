@@ -1,6 +1,6 @@
 # Curso "Introducción a Learning Analytics con ejemplos prácticos"
 
-***Actualizado - 08/10/2022***
+***Actualizado - 05/11/2023***
 
 Aquí compartimos el material generado para el **curso "Introducción a Learning Analytics"**. Este consta de un total de 7 unidades.  
 En este curso intentamos introducir el mundo del "Learning Analytics" (analítica del aprendizaje) con suspuestos prácticos que podemos aplicar y adaptar a nuestras necesidades.
@@ -24,8 +24,11 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | [Video Guía didáctia Unidad 01](https://www.youtube.com/watch?v=2hSFsknmJFI&feature=youtu.be) |
 | [Unidad 01 - Introducción a Learning Analytics](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.01%20-%20Introducci%C3%B3n%20a%20Learning%20Analytics.pdf) |
 | [Video Resumen Unidad 01 - Introducción a Learning Analytics](https://www.youtube.com/watch?v=HMqpWweXJJ8&feature=youtu.be) |
-| [Unidad 01. Anexo I - Principales métodos de visualización ](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.02%20-%20Principales%20m%C3%A9todos%20de%20visualizaci%C3%B3n.pdf) |
-| [Unidad 01. Anexo II - Repaso conceptos estadística](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.03%20-%20Repaso%20conceptos%20estad%C3%ADstica.pdf) |
+| [Unidad 01 Anexo I - Principales métodos de visualización ](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.02%20-%20Principales%20m%C3%A9todos%20de%20visualizaci%C3%B3n.pdf) |
+| [Unidad 01 Anexo II - Repaso conceptos estadística](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.03%20-%20Repaso%20conceptos%20estad%C3%ADstica.pdf) |
+| [Unidad 01 - Actividades Entregables](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.04%20-%20Actividades%20Entregables.pdf)|
+| [Unidad 01 - Actividades Opcionales PowerBI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.05%20-%20Actividades%20Opcionales%20PowerBI%20Desktop.pdf)|
+| [Unidad 01 - Titanic dataset](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/titanic_dataset.csv)|
 
 # UD02 Learning Analytics aplicado a las calificaciones
 
@@ -47,6 +50,8 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | Actividades UD02 |
 | ------ |
 | [Unidad 02 - Actividades Entregables](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/UD%2002.04%20-%20Actividades%20Entregables.pdf) |
+| [Unidad 02 - Actividades Opcionales PowerBI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/UD%2002.05%20-%20Actividades%20Opcionales%20PowerBI%20Desktop.pdf)|
+| [Unidad 02 - Actividades Opcionales KNIME](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/UD%2002.06%20-%20Actividades%20Opcionales%20KNIME.pdf)|
 
 
 | Recursos UD02 |
