@@ -26,10 +26,16 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | [Video Resumen Unidad 01 - Introducción a Learning Analytics](https://www.youtube.com/watch?v=HMqpWweXJJ8&feature=youtu.be) |
 | [Unidad 01 Anexo I - Principales métodos de visualización ](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.02%20-%20Principales%20m%C3%A9todos%20de%20visualizaci%C3%B3n.pdf) |
 | [Unidad 01 Anexo II - Repaso conceptos estadística](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.03%20-%20Repaso%20conceptos%20estad%C3%ADstica.pdf) |
+
+| Actividades entregables UD01 |
+| ------ |
 | [Unidad 01 - Actividades Entregables](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.04%20-%20Actividades%20Entregables.pdf)|
+
+| Actividades opcionales UD01 |
+| ------ |
 | [Unidad 01 - Actividades Opcionales PowerBI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.05%20-%20Actividades%20Opcionales%20PowerBI%20Desktop.pdf)|
 | [Video Unidad 01 - Ejemplo uso Power BI Desktop (Proyecto Titanic)](https://www.youtube.com/watch?v=qIYYR4SbEpA) |
-| [Unidad 01 - Titanic dataset](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/titanic_dataset.csv)|
+| [Unidad 01 - (DATASET) datos brutos sobre el Titanic ](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/titanic_dataset.csv)|
 | [Unidad 01 - PowerBI Desktop - Informe Titanic (Resultado)](https://github.com/sergarb1/cursolearninganalytics/blob/4e84342bc27ff2c7d714568e35b0113102854802/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/Informe-Titanic.pbix) |
 
 
@@ -51,14 +57,18 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 | Casos prácticos UD02 |
 | ------ |
-| [Unidad 02 - Datos brutos caso práctico](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/Caso%20Estudio%20UD02.zip) |
+| [Unidad 02 - (DATASET) Datos brutos caso práctico](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/Caso%20Estudio%20UD02.zip) |
 | [Unidad 02 - Caso practico 01 - Análisis de calificaciones módulo (Colectivo)](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/UD%2002.02%20-%20An%C3%A1lisis%20de%20calificaciones%20m%C3%B3dulo%20(Colectivo)%20-%20Caso%20pr%C3%A1ctico.pdf) |
 | [Unidad 02 - Caso practico 02 - Análisis de calificaciones módulo (Individual)](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/UD%2002.03%20-%20An%C3%A1lisis%20de%20calificaciones%20m%C3%B3dulo%20(individual)%20-%20Caso%20pr%C3%A1ctico.pdf) |
 
 
-| Actividades UD02 |
+| Actividades entregables UD02 |
 | ------ |
 | [Unidad 02 - Actividades Entregables](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/UD%2002.04%20-%20Actividades%20Entregables.pdf) |
+
+
+| Actividades opcionales UD02 |
+| ------ |
 | [Unidad 02 - Actividades Opcionales PowerBI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/UD%2002.05%20-%20Actividades%20Opcionales%20PowerBI%20Desktop.pdf)|
 | [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con PowerBI Desktop - Parte 01](https://youtu.be/Bryfgido2pE) |
 | [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con PowerBI Desktop - Parte 02](https://youtu.be/-eKnw_Gw0pE) |
