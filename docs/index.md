@@ -36,7 +36,7 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | [Unidad 01 - Actividades Opcionales PowerBI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.05%20-%20Actividades%20Opcionales%20PowerBI%20Desktop.pdf)|
 | [Video Unidad 01 - Ejemplo uso Power BI Desktop (Proyecto Titanic)](https://www.youtube.com/watch?v=qIYYR4SbEpA) |
 | [Unidad 01 - (DATASET) datos brutos sobre el Titanic ](https://github.com/sergarb1/cursolearninganalytics/raw/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/titanic_dataset.csv)|
-| [Unidad 01 - PowerBI Desktop - Informe Titanic (Resultado)](https://github.com/sergarb1/cursolearninganalytics/raw/4e84342bc27ff2c7d714568e35b0113102854802/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/Informe-Titanic.pbix) |
+| [PowerBI Desktop - Informe Titanic (Resultado)](https://github.com/sergarb1/cursolearninganalytics/raw/4e84342bc27ff2c7d714568e35b0113102854802/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/Informe-Titanic.pbix) |
 
 
 | Recursos UD01 |
@@ -74,6 +74,7 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con PowerBI Desktop - Parte 02](https://youtu.be/-eKnw_Gw0pE) |
 | [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con PowerBI Desktop - Parte 03](https://youtu.be/fVVFFFFcAI4) |
 | [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con PowerBI Desktop - Parte 04](https://youtu.be/tHCAt78pYZc) |
+| [PowerBI Desktop - Informe Caso Práctico UD02 (Resultado)](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/CasoEstudioUD02-01.pbix) |
 | [Unidad 02 - Actividades Opcionales KNIME](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/UD%2002.06%20-%20Actividades%20Opcionales%20KNIME.pdf)|
 | [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con KNIME](https://www.youtube.com/watch?v=kAPI5N9UdHA&feature=youtu.be) |
 
