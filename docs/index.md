@@ -33,7 +33,7 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 | Actividades opcionales UD01 |
 | ------ |
-| [Unidad 01 - Actividades Opcionales PowerBI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.05%20-%20Actividades%20Opcionales%20PowerBI%20Desktop.pdf)|
+| [Unidad 01 - Actividades Opcionales Power BI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/UD%2001.05%20-%20Actividades%20Opcionales%20PowerBI%20Desktop.pdf)|
 | [Video Unidad 01 - Ejemplo uso Power BI Desktop (Proyecto Titanic)](https://www.youtube.com/watch?v=qIYYR4SbEpA) |
 | [Unidad 01 - (DATASET) datos brutos sobre el Titanic ](https://github.com/sergarb1/cursolearninganalytics/raw/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/titanic_dataset.csv)|
 | [PowerBI Desktop - Informe Titanic (Resultado)](https://github.com/sergarb1/cursolearninganalytics/raw/4e84342bc27ff2c7d714568e35b0113102854802/FuentesCurso/UD%2001%20-%20Introduccion%20a%20Learning%20Analytics/Informe-Titanic.pbix) |
@@ -69,12 +69,12 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 | Actividades opcionales UD02 |
 | ------ |
-| [Unidad 02 - Actividades Opcionales PowerBI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/UD%2002.05%20-%20Actividades%20Opcionales%20PowerBI%20Desktop.pdf)|
-| [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con PowerBI Desktop - Parte 01](https://youtu.be/Bryfgido2pE) |
-| [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con PowerBI Desktop - Parte 02](https://youtu.be/-eKnw_Gw0pE) |
-| [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con PowerBI Desktop - Parte 03](https://youtu.be/fVVFFFFcAI4) |
-| [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con PowerBI Desktop - Parte 04](https://youtu.be/tHCAt78pYZc) |
-| [PowerBI Desktop - Informe Caso Práctico UD02 (Resultado)](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/CasoEstudioUD02-01.pbix) |
+| [Unidad 02 - Actividades Opcionales Power BI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/UD%2002.05%20-%20Actividades%20Opcionales%20PowerBI%20Desktop.pdf)|
+| [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con Power BI Desktop - Parte 01](https://youtu.be/Bryfgido2pE) |
+| [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con Power BI Desktop - Parte 02](https://youtu.be/-eKnw_Gw0pE) |
+| [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con Power BI Desktop - Parte 03](https://youtu.be/fVVFFFFcAI4) |
+| [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con Power BI Desktop - Parte 04](https://youtu.be/tHCAt78pYZc) |
+| [Power BI Desktop - Informe Caso Práctico UD02 (Resultado)](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/CasoEstudioUD02-01.pbix) |
 | [Unidad 02 - Actividades Opcionales KNIME](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/UD%2002.06%20-%20Actividades%20Opcionales%20KNIME.pdf)|
 | [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con KNIME](https://www.youtube.com/watch?v=kAPI5N9UdHA&feature=youtu.be) |
 
@@ -102,13 +102,24 @@ Aquí tenéis los enlaces al material para realizar el curso.
 | ------ |
 | [Unidad 03 - Caso practico 01 - Análisis de asistencia (Colectivo)](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2003%20-%20Learning%20Analytics%20aplicado%20a%20la%20asistencia/UD%2003.03%20-%20An%C3%A1lisis%20de%20asistencia%20(Colectivo)%20-%20Caso%20pr%C3%A1ctico.pdf)|
 | [Unidad 03 - Datos extraidos ITACA anonimizados para caso práctico](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2003%20-%20Learning%20Analytics%20aplicado%20a%20la%20asistencia/Datos%20caso%20estudio%20UD3.zip) |
-| [Video Unidad 03 - Extrayendo información del caso práctico con KNIME](https://www.youtube.com/watch?v=o4pqkHuutcw&feature=youtu.be) |
 
 
-| Actividades UD03 |
+| Actividades entregables UD03 |
 | ------ |
 | [Unidad 03 - Actividades Entregables](https://github.com/sergarb1/CursoLearningAnalytics/blob/master/FuentesCurso/UD%2003%20-%20Learning%20Analytics%20aplicado%20a%20la%20asistencia/UD%2003.04%20-%20Actividades%20Entregables.pdf) |
 
+| Actividades opcionales UD03 |
+| ------ |
+| [Unidad 03 - Actividades opcionales Power BI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/master/FuentesCurso/UD%2003%20-%20Learning%20Analytics%20aplicado%20a%20la%20asistencia/UD%2003.05%20-%20Actividades%20Opcionales%20PowerBI%20Desktop.pdf) |
+
+| [Video Unidad 03 - Extrayendo y mostrando información del caso práctico con Power BI Desktop - Parte 01](https://youtu.be/1qXCUWdOrbY)) |
+| [Video Unidad 03 - Extrayendo y mostrando información del caso práctico con Power BI Desktop - Parte 02](https://youtu.be/F7Mp2b2hIiQ)) |
+| [Video Unidad 03 - Extrayendo y mostrando información del caso práctico con Power BI Desktop - Parte 03](https://youtu.be/jmucNxqVjoc)) |
+| [Video Unidad 03 - Extrayendo y mostrando información del caso práctico con Power BI Desktop - Parte 04](https://youtu.be/-HZ8vQKz6Is)) |
+| [Power BI Desktop - Informe Caso Práctico UD03 (Resultado)](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2003%20-%20Learning%20Analytics%20aplicado%20a%20la%20asistencia/CasoEstudioUD03.pbix) |
+
+| [Unidad 03 - Actividades opcionales KNIME](https://github.com/sergarb1/cursolearninganalytics/blob/master/FuentesCurso/UD%2003%20-%20Learning%20Analytics%20aplicado%20a%20la%20asistencia/UD%2003.06%20-%20Actividades%20Opcionales%20KNIME.pdf) |
+| [Video Unidad 03 - Extrayendo información del caso práctico con KNIME](https://www.youtube.com/watch?v=o4pqkHuutcw&feature=youtu.be) |
 
 
 # UD04 Learning Analytics aplicado al análisis de textos: resúmenes, mapas y presentaciones
@@ -126,17 +137,28 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 | Casos prácticos UD04 |
 | ------ |
-| [Unidad 04 - Caso práctico 01 - Análisis de resumen (Individual)](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.03%20-%20An%C3%A1lisis%20de%20resumen%20(Individual)%20-%20Caso%20pr%C3%A1ctico.pdf)|
+| [Unidad 04 - Caso práctico 01 - Análisis de resumen (Individual) - Parte 1](https://github.com/sergarb1/cursolearninganalytics/blob/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.03%20-%20An%C3%A1lisis%20de%20resumen%20(Individual)%20Parte%201%20-%20Caso%20pr%C3%A1ctico.pdf)|
+| [Unidad 04 - Caso práctico 02 - Análisis de resumen (Individual) - Parte 2](https://github.com/sergarb1/cursolearninganalytics/blob/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.04%20-%20An%C3%A1lisis%20de%20resumen%20(Individual)%20Parte%202%20-%20Caso%20pr%C3%A1ctico.pdf)|
 | [Unidad 04 - Datos Caso práctico 01 (Quijote, Wikipedia y resumen)](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/CasoEstudioUD04-01.zip) |
 | [Video Unidad 04 - Extrayendo información de "El Quijote"](https://youtu.be/EVjcsV-cC_g) |
-| [Unidad 04 - Caso práctico 02 - Análisis de resumen (Colectivo)](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.04%20-%20An%C3%A1lisis%20de%20resumenes%20(Colectivo)%20-%20Caso%20pr%C3%A1ctico.pdf)|
-| [Unidad 04 - Datos Caso práctico 02 (Colectivo)](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/CasoEstudioUD04-02.zip) |
+| [Unidad 04 - Caso práctico 03 - Análisis de resumen (Colectivo)](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.04%20-%20An%C3%A1lisis%20de%20resumenes%20(Colectivo)%20-%20Caso%20pr%C3%A1ctico.pdf)|
+| [Unidad 04 - Datos Caso práctico 03 (Colectivo)](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/CasoEstudioUD04-02.zip) |
+
+| [Unidad 04 - Caso práctico 04 - Análisis de mapa mental (Individual)](https://github.com/sergarb1/cursolearninganalytics/blob/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.06%20-%20An%C3%A1lisis%20de%20mapa%20mental%20(Individual)%20-%20Caso%20pr%C3%A1ctico.pdf)|
+| [Unidad 04 - Datos Caso práctico 04 (Individual)](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD04%20-%20Caso%20pr%C3%A1ctico%204%20-%20Mapa%20mental.zip) |
+| [Unidad 04 - Caso práctico 05 - Análisis de presentación (Individual)](https://github.com/sergarb1/cursolearninganalytics/blob/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.07%20-%20An%C3%A1lisis%20de%20presentaci%C3%B3n%20(Individual)%20-%20Caso%20pr%C3%A1ctico.pdf)|
+| [Unidad 04 - Datos Caso práctico 05 (Individual)](https://github.com/sergarb1/cursolearninganalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD04%20-%20Caso%20pr%C3%A1ctico%205%20-%20Presentaci%C3%B3n.zip) |
 
 
 
-| Actividades UD04 |
+| Actividades entregables UD04 |
 | ------ |
 | [Unidad 04 - Actividades Entregables](https://github.com/sergarb1/CursoLearningAnalytics/raw/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.05%20-%20Actividades%20Entregables.pdf) |
+
+
+| Actividades opcionales UD04 |
+| ------ |
+| [Unidad 04 - Actividades Opcionales](https://github.com/sergarb1/cursolearninganalytics/blob/master/FuentesCurso/UD%2004%20-%20Learning%20Analytics%20aplicado%20a%20textos/UD%2004.09%20-%20Actividades%20Opcionales%20ChatGPT.pdf) |
 
 
 
