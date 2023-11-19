@@ -110,7 +110,7 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 | Actividades opcionales UD03 |
 | ------ |
-| [Unidad 03 - Actividades opcionales Power BI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/master/FuentesCurso/UD%2003%20-%20Learning%20Analytics%20aplicado%20a%20la%20asistencia/UD%2003.05%20-%20Actividades%20Opcionales%20PowerBI%20Desktop.pdf) |
+| [Unidad 03 - Actividades opcionales Power BI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/master/FuentesCurso/UD%2003%20-%20Learning%20Analytics%20aplicado%20a%20la%20asistencia/UD%2003.05%20-%20Actividades%20Opcionales%20Power%20BI%20Desktop.pdf) |
 
 | [Video Unidad 03 - Extrayendo y mostrando información del caso práctico con Power BI Desktop - Parte 01](https://youtu.be/1qXCUWdOrbY)) |
 | [Video Unidad 03 - Extrayendo y mostrando información del caso práctico con Power BI Desktop - Parte 02](https://youtu.be/F7Mp2b2hIiQ)) |
