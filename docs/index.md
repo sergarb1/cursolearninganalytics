@@ -1,6 +1,6 @@
 # Curso "Introducción a Learning Analytics con ejemplos prácticos"
 
-***Actualizado - 05/11/2023***
+***Actualizado - 19/11/2023***
 
 Aquí compartimos el material generado para el **curso "Introducción a Learning Analytics"**. Este consta de un total de 7 unidades.  
 En este curso intentamos introducir el mundo del "Learning Analytics" (analítica del aprendizaje) con suspuestos prácticos que podemos aplicar y adaptar a nuestras necesidades.
