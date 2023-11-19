@@ -69,7 +69,7 @@ Aquí tenéis los enlaces al material para realizar el curso.
 
 | Actividades opcionales UD02 |
 | ------ |
-| [Unidad 02 - Actividades Opcionales Power BI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/d4346970e78204cd13b1f2e380e63bdddf4119f9/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/UD%2002.05%20-%20Actividades%20Opcionales%20PowerBI%20Desktop.pdf)|
+| [Unidad 02 - Actividades Opcionales Power BI Desktop](https://github.com/sergarb1/cursolearninganalytics/blob/master/FuentesCurso/UD%2002%20-%20Learning%20Analytics%20aplicado%20a%20calificaciones/UD%2002.05%20-%20Actividades%20Opcionales%20Power%20BI%20Desktop.pdf)|
 | [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con Power BI Desktop - Parte 01](https://youtu.be/Bryfgido2pE) |
 | [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con Power BI Desktop - Parte 02](https://youtu.be/-eKnw_Gw0pE) |
 | [Video Unidad 02 - Extrayendo y mostrando información del caso práctico con Power BI Desktop - Parte 03](https://youtu.be/fVVFFFFcAI4) |
